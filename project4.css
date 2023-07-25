@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(141, 52, 168);
+
+}
+
+/* Header */
+.header{
+    background-color: #f8cafa;
+    padding: 20px 10px;
+    color: black;
+    text-align: center;
+
+}
+.header a{
+    padding: 15px 10px;
+}
+
+.header a:hover {
+    background-color: rgb(141, 52, 168);
+    color: white;
+  }
+  
+@media screen and (max-width: 500px) {
+    .header a {;
+      display: block;
+      text-align: left;
+    }
+  }
+/*Youtube*/
+.iframe-container{
+    margin-left: center;
+    width: 550px;
+    height: 150px;
+}
+
+
+
+@media screen and (max-width: 400px) {
+    .iframe-container{
+        margin-left: 20%;
+        width: 550px;
+        height: 150px;
+    }
+  }
+
+
+
+/*DataWrapper*/
+.data-wrapper-container{
+    text-align: center;
+}
+
+.dataaa { 
+    text-align: center};
+
+/*Simple Button And Links*/
+.Button {
+    background-color: #7417f5; 
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .Button:hover {
+    background-color: #2d0160; /* Green */
+    color: white;
+ 
+}
+
+
+
+
+
+
+
+
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/others/oth-9/oth927.cur), auto !important;} /* End https://www.cursors-4u.com */
