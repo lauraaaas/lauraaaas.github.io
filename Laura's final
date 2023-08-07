@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="project5.css">
+    <link href="https://fonts.cdnfonts.com/css/old-london" rel="stylesheet">
+    <title>Laura's final</title>
+</head>
+
+<body>
+
+    <section id="home">
+        <p class="magzineName">Laura's Final Project</p>
+        <ul class="header">
+            <a href="#home">This website is an Assignment </a>
+        </ul>
+    </section>
+
+
+
+    <!-- Lets add Title -->
+    <div class="article-container">
+        <span class="articleTitle">California reports on toxic chemicals found in cosmetics and personal hygiene products </span></br>
+        <span class="articleSubtitle">The reality of the ingredients found in cosmetic products.</span>
+        <p class="author">By <a href="#" style="text-decoration: none">Laura S. Román López</a></p>
+        <p class="date">Published : <a href="#" style="text-decoration: none">August 8th, 2023</a></p>
+
+
+
+        <!-- Lets begin article with first letter huge -->
+
+        <!-- Lets add Image  -->
+
+        <section id="image1">
+            <img class="image"
+                src="https://images.pexels.com/photos/2113855/pexels-photo-2113855.jpeg">
+            <p class="imageCaption"> Assortment of Cosmetic Products. Photo by zhugewala from Pexels</p>
+        </section>
+
+
+        <!-- Lets add article -->
+
+        <section>
+            <p class="paragraph">
+                <span class="hugeLetter">S</span>oaps, moisturizers, shaving creams, toothpastes, nail polishes, deodorants, perfumes, makeup.  The list of the products we use as personal hygiene is endless.  There's always something new on the market, something we want to try, something that catches our eyes as we stroll down the aisles of your local shops.  We're influenced by the packaging of these products and what they promote themselves to do, but rarely do we ever take the time to read the ingredients that's on the back of the products.  These ingredients lists tells us the chemicals that make up our products, it's time we pay more attention to them.   </p>                               
+
+            <p class="paragraph">
+             &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; In a recent dataset published by the California Safe Cosmetics Program (CSCP) and the California Department of Public Health (CDPH), an extensive lists of toxic chemical reports were presented as a way to let the public know of harmful ingredients that may be found in cosmetic products.  The data ranges from cases reported from 2009-2020 and covers a variety of product categories like bath, makeup, tattoos, hair care, oral hygiene, and many others.  </p>                                
+
+            <p class="paragraph">
+             &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; From these primary categories, makeup products seems to be the one which has received the majority of all reports as presented in the chart below titled "Product categories with the most amount of reports of harmful chemicals in cosmetic products (2009-2020)".   Makeup products received over 75,000 reports during the span of these years, followed by nail products (15,347 reports), and skin care products (7,683).                                                                 </p>
+             <iframe title="Product categories with the most amount of reports of harmful chemicals in cosmetic products (2009-2020)" aria-label="Bar Chart" id="datawrapper-chart-9dbQO" src="https://datawrapper.dwcdn.net/9dbQO/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="401" data-external="1"></iframe>
+
+                <p class="paragraph"> 
+                &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;When we look to see the companies who have received the most reports, it's not a surprise to see the big dogs of the beauty industry.  As presented in the following graph "Companies with the most amount of reports for harmful chemicals in their cosmetic products (2009-2020)" L'Oreal USA, S+, and Coty have the most amount of reports.  When we examine the brands that are associated with these companies, we can see how big the beauty industry truly is.  Brands associated with L'Oreal USA include Lancôme, Maybelline, Yves Saint Laurent, Kiehl's and many more.  Coty, on the other hand, is the parent company of luxury and commercial brands like Vera Wang, Burberry, CoverGirl, Gucci, Rimmel, and so on. </p>
+
+                <iframe title="Companies with the most amount of reports for harmful chemicals in their cosmetic products (2009-2020)" aria-label="Bar Chart" id="datawrapper-chart-Sfbno" src="https://datawrapper.dwcdn.net/Sfbno/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="476" data-external="1"></iframe> 
+                               
+
+               <p class="paragraph">  
+                &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; When looking at the products we typically use on our day-to-day basis, the ingredients that are in them are essential to know a basic understanding of.  Products constantly are promoted and advertised to help certain concerns that we may have, so the chemical composition of the products are extremely important to have the products be successful.  However, there are many ingredients that over time have stopped being used in the formulas of cosmetic products because of how harmful they can be to the human body.  As described by the California Department of Public Health, this list focuses on products who have been reported to have "products that contain any ingredients known or suspected to cause cancer, birth defects, or other developmental or reproductive harm".  In the following pie chart, the most common chemicals found in cosmetic products are listed.  </p>                           
+
+                 <iframe title="Most common harmful chemicals found in cosmetic products (2009-2020)" aria-label="Pie Chart" id="datawrapper-chart-pyRce" src="https://datawrapper.dwcdn.net/pyRce/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="667" data-external="1"></iframe>
+
+
+                 
+
+                  <p class="paragraph">  
+                &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; The most common harmful chemical found in cosmetic products in California is Titanium Dioxide.  INCLUDE INFO OR QUOTE GIVEN BY SOURCE!!!! WORK IN PROGRESS!!!!                             </p>
+
+                <p class="paragraph"> Here is some more information on common chemicals found in cosmetics. </p>
+                
+         <details class="accordion-item">
+    <summary class="accordion-trigger">
+      <span class="accordion-title">
+        Titanium Dioxide
+      </span>
+      <span class="accordion-icon" aria-hidden="true">
+        &plus;
+      </span>
+    
+    </summary>
+    <div class="accordion-content">
+      <p class="paragraph">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;Titanium Dioxide is known to be used in many different outside of the beauty industry, it's even used in foods!  This chemical is often used for pigment and coverage in makeup products, but it has a scientific history of being harmful to the skin at times.  According to <a href= "https://madesafe.org/blogs/viewpoint/the-scoop-on-titanium-dioxide-in-cosmetics#:~:text=Because%20of%20its%20white%20color,effective%20active%20ingredient%20in%20sunscreens.">Made Safe</a>, a program which focuses on educating on ingredients and their effects, Titanium Dioxide can be both beneficial and harmful depending on the product.  "When inhaled, titanium dioxide is considered possibly carcinogenic to humans. This means that in products that contain powdered titanium dioxide like loose powders, pressed powders, eyeshadows, and blushes in which the makeup is in powder form, titanium dioxide can be inhaled...While loose titanium dioxide presents a problem, titanium dioxide within sunscreen formulations presents a much safer option than conventional sunscreen chemicals like oxybenzone and octinoxate".                                    </p>
+
+    <div id="iframe-container"
+        class= "vid">
+      <iframe width="514" height="375" src="https://www.youtube.com/embed/F00-7-AE_HU" title="Why we don&#39;t use Titanium Dioxide on our Skin or in our Makeup, Ever!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</details>
+<details class="accordion-item">
+    <summary class="accordion-trigger">
+      <span class="accordion-title">
+        Crystalline Silica
+      </span>
+      <span class="accordion-icon" aria-hidden="true">
+        &plus;
+      </span>
+    
+    </summary>
+    <div class="accordion-content">
+      <p class="paragraph">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;Crystalline Silica at times can be used in Mineral Makeup, which is products that typically come from compressed minerals and do not contain oils or waxes.  According to <a href="https://www.sterlingminerals.com/is-silica-powder-safe-in-mineral-makeup-products/#:~:text=Crystalline%20Silica&text=It%20is%20also%20an%20ingredient,or%20cosmetics%20of%20any%20kind"> Sterling Minerals</a>, a cosmetic brand that focuses on this type of makeup, crystalline silica "is also an ingredient that if inhaled causes severe lung inflammation, can be fibrogenic, (essentially scarring) and can cause cancer and a chronic, sometimes fatal disease known as silicosis".                                       </p>
+      <div id="iframe-container"
+        class= "vid"> 
+        <iframe width="514" height="458" src="https://www.youtube.com/embed/EaxNDRutkAk" title="Minerals In Makeup: Good Or Bad? (Talc Mica Silica) Makeup Talk With Gabriel Cosmetics!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</details>
+ 
+          <p class="paragraph">  
+                &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Following the data on chemicals in cosmetics in California, the product that received the most amount of reports was the bareMinerals <a href= "https://www.bareminerals.com/products/loose-mineral-eyecolor?variant=40493737508949" >Loose Mineral Eye Color </a> eyeshadow with a total of 766 reports.  This product has developed throughout the years since it was launched and a variety of colors have been discontinued.   It is unknown if the eye shadow's formula has been changed, however on the products website Titanium Dioxide is still on it's list of ingredients.  </p>
+
+                <p class="paragraph">
+             &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Having basic knowledge of the chemical compositions that make up our products can be essential to our health.  Through conscious findings of ingredients, one can feel more at ease knowing that what they put on their body is safe and will not harm them in the long run.                                                                                        </p>
+
+        </section>
+
+
+
+
+    </div>
+    <!-- Here article container class ends. -->
+
+
+<footer class="footerClass">
+    <p>Thank you!</p>
+    </footer>
+
+
+</body>
+
+
+<style type="text/css">* {cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1038.cur), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2012/02/10/pinky-design-pointer.html" target="_blank" title="Pinky Design Pointer"><img src="https://cur.cursors-4u.net/cursor.png" border="0" alt="Pinky Design Pointer" style="position:absolute; top: 0px; right: 0px;" /></a>
+
+</html>
